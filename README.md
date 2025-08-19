@@ -1,5 +1,8 @@
-## Hi there 👋
+## Bem-vindos ao meu GitHub!
 
+🔭 Hoje em dia estou trabalhando com ABAP, SQL e 
+🌱 Estou aprendendo Python e estudando Ciência da Computação
+📫 Vocês podem me encontrar no LinkedIn :)
 <!--
 **fraga500/fraga500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
