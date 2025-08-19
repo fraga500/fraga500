@@ -1,4 +1,4 @@
-## Bem-vindos ao meu GitHub!
+## Bem-vindos e bem-vindas ao meu GitHub!
 
 🔭 Hoje em dia estou trabalhando com ABAP, SQL e Concur na SAP
 
