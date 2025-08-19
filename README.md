@@ -1,6 +1,6 @@
 ## Bem-vindos ao meu GitHub!
 
-🔭 Hoje em dia estou trabalhando com ABAP, SQL e Concur 
+🔭 Hoje em dia estou trabalhando com ABAP, SQL e Concur na SAP
 
 🌱 Estou aprendendo Python e estudando Ciência da Computação
 
